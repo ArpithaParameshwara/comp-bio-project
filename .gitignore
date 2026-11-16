@@ -3,7 +3,6 @@
 !.pixi/config.toml
 # IQ-TREE files that we can recreate, and that change every time IQ-TREE runs
 results/*.log
-results/*.iqtree
 results/*.ckp.gz
 results/*.bionj
 results/*.mldist
