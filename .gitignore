@@ -6,3 +6,4 @@ results/*.log
 results/*.ckp.gz
 results/*.bionj
 results/*.mldist
+results/*.iqtree
